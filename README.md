@@ -7,6 +7,7 @@
 - RDBMS and Database: Microsoft SQL Server and PostgreSQL Server 🗃️
 - Business Intelligence and Data Visualization Tools: Power BI and Tableau 📊
 - Other: Google Sheets and Microsoft Excel 📊📈
+![GIF](https://media0.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif?cid=ecf05e47nfnl47omlsogzh27viiur7adjw4c38hju06epu6a&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 ## 🌐 Socials:
