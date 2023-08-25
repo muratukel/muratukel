@@ -1,19 +1,15 @@
 # 🌟 About Me:
 👩‍💻 I've cultivated my skills in data analysis through dedicated learning and hands-on experiences.<br><br>🎓Bachelor's Degree in Econometrics<br><br>🔗Engaging in financial analyses during university revealed the significance of the data realm, making it both enjoyable and passionate for me. As a result, I decided to pursue data analysis and data science.<br><br>🔍Passionate about anything related to Data Analytics, Data Science, Data Engineering, and Data Mining.<br><br>📊 I'm actively seeking collaboration opportunities on projects related to data analysis and visualization, where I can contribute my expertise.<br><br>📚 I'm keen on advancing my proficiency in advanced data analytics techniques and tools, and I'm open to connecting with fellow enthusiasts for knowledge exchange.<br><br>🤝 I'm always up for insightful conversations about SQL, Python, and Power BI – my trusted companions for data analysis and visualization. Sharing insights and learning from others is what keeps me motivated.<br><br>With practical experiences under my belt, I'm excited to have ventured beyond learning and into actively contributing to data analysis projects. The allure of this field lies in its ability to transform raw data into valuable insights. As I continue to expand my skill set, my aim is to contribute to data-driven decision-making processes and create a positive impact. Join me in exploring the fascinating world of data analysis, where possibilities are boundless and insights are waiting to be uncovered! 🚀📊
-
+![GIF 1](https://media0.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif?cid=ecf05e47nfnl47omlsogzh27viiur7adjw4c38hju06epu6a&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![GIF 2](https://media3.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp?cid=ecf05e47f0kd6cvq5vwpbe7nmpkr19rydhut6rnts484uu6y&ep=v1_gifs_search&rid=200w.webp&ct=g)
+![GIF 3](https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp?cid=ecf05e47f0kd6cvq5vwpbe7nmpkr19rydhut6rnts484uu6y&ep=v1_gifs_search&rid=200.webp&ct=g)
+![GIF 4](https://media1.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e478ibeydcpwgjv08cuj3nz3daqbziowezc32aconds&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 🔧 Technical Proficiencies:
 - Programming Language: Python (pandas, numpy, matplotlib, seaborn) 🐍
 - RDBMS and Database: Microsoft SQL Server and PostgreSQL Server 🗃️
 - Business Intelligence and Data Visualization Tools: Power BI and Tableau 📊
 - Other: Google Sheets and Microsoft Excel 📊📈
-
-![GIF 1](https://media0.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif?cid=ecf05e47nfnl47omlsogzh27viiur7adjw4c38hju06epu6a&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-![GIF 2](https://media3.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp?cid=ecf05e47f0kd6cvq5vwpbe7nmpkr19rydhut6rnts484uu6y&ep=v1_gifs_search&rid=200w.webp&ct=g)
-![GIF 3](https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp?cid=ecf05e47f0kd6cvq5vwpbe7nmpkr19rydhut6rnts484uu6y&ep=v1_gifs_search&rid=200.webp&ct=g)
-![GIF 4](https://media1.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e478ibeydcpwgjv08cuj3nz3daqbziowezc32aconds&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-
 
 
 ## 🌐 Socials:
