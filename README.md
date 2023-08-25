@@ -2,11 +2,11 @@
 👩‍💻 I've cultivated my skills in data analysis through dedicated learning and hands-on experiences.<br><br>🔍Passionate about anything related to Data Analytics, Data Science, Data Engineering, and Data Mining.<br><br>📊 I'm actively seeking collaboration opportunities on projects related to data analysis and visualization, where I can contribute my expertise.<br><br>📚 I'm keen on advancing my proficiency in advanced data analytics techniques and tools, and I'm open to connecting with fellow enthusiasts for knowledge exchange.<br><br>🤝 I'm always up for insightful conversations about SQL, Python, and Power BI – my trusted companions for data analysis and visualization. Sharing insights and learning from others is what keeps me motivated.<br><br>With practical experiences under my belt, I'm excited to have ventured beyond learning and into actively contributing to data analysis projects. The allure of this field lies in its ability to transform raw data into valuable insights. As I continue to expand my skill set, my aim is to contribute to data-driven decision-making processes and create a positive impact. Join me in exploring the fascinating world of data analysis, where possibilities are boundless and insights are waiting to be uncovered! 🚀📊
 
 🔧 Technical Proficiencies:
+- Programming Language: Python (pandas, numpy, matplotlib, seaborn) 🐍
+- RDBMS and Database: Microsoft SQL Server, PostgreSQL Server 🗃️
+- Business Intelligence and Data Visualization Tools: Power BI and Tableau 📊
+- Other: Google Sheets and Microsoft Excel 📊📈
 
-Programming Language: Python (pandas, numpy, matplotlib, seaborn) 🐍
-RDBMS and Database: Microsoft SQL Server, PostgreSQL Server 🗃️
-Business Intelligence and Data Visualization Tools: Power BI and Tableau 📊
-Other: Google Sheets and Microsoft Excel 📊📈
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murat-t%C3%BCkel-a81814242/)
