@@ -3,7 +3,7 @@
 
 🔧 Technical Proficiencies:
 - Programming Language: Python (pandas, numpy, matplotlib, seaborn) 🐍
-- RDBMS and Database: Microsoft SQL Server, PostgreSQL Server 🗃️
+- RDBMS and Database: Microsoft SQL Server and PostgreSQL Server 🗃️
 - Business Intelligence and Data Visualization Tools: Power BI and Tableau 📊
 - Other: Google Sheets and Microsoft Excel 📊📈
 
