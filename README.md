@@ -8,7 +8,6 @@
 - Business Intelligence and Data Visualization Tools: Power BI and Tableau 📊
 - Other: Google Sheets and Microsoft Excel 📊📈
 
-
 ![GIF 1](https://giphy.com/gifs/animation-ryan-seslow-3osxYc2axjCJNsCXyE)
 ![GIF 2](https://media3.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp?cid=ecf05e47f0kd6cvq5vwpbe7nmpkr19rydhut6rnts484uu6y&ep=v1_gifs_search&rid=200w.webp&ct=g)
 ![GIF 3](https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp?cid=ecf05e47f0kd6cvq5vwpbe7nmpkr19rydhut6rnts484uu6y&ep=v1_gifs_search&rid=200.webp&ct=g)
