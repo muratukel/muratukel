@@ -5,7 +5,10 @@
 👩‍💻 I've cultivated my skills in data analysis through dedicated learning and hands-on experiences.<br><br>🎓Bachelor's Degree in Econometrics<br><br>🔗Engaging in financial analyses during university revealed the significance of the data realm, making it both enjoyable and passionate for me. As a result, I decided to pursue data analysis and data science.<br><br>🔍Passionate about anything related to Data Analytics, Data Science, Data Engineering, and Data Mining.<br><br>📊 I'm actively seeking collaboration opportunities on projects related to data analysis and visualization, where I can contribute my expertise.<br><br>📚 I'm keen on advancing my proficiency in advanced data analytics techniques and tools, and I'm open to connecting with fellow enthusiasts for knowledge exchange.<br><br>🤝 I'm always up for insightful conversations about SQL, Python, and Power BI – my trusted companions for data analysis and visualization. Sharing insights and learning from others is what keeps me motivated.<br><br>With practical experiences under my belt, I'm excited to have ventured beyond learning and into actively contributing to data analysis projects. The allure of this field lies in its ability to transform raw data into valuable insights. As I continue to expand my skill set, my aim is to contribute to data-driven decision-making processes and create a positive impact. Join me in exploring the fascinating world of data analysis, where possibilities are boundless and insights are waiting to be uncovered! 🚀📊
 
 
-<img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp" alt="GIF 2" width="200" height="200"><img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp" alt="GIF 3" width="200" height="200"><img src="https://media1.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="GIF 4" width="200" height="200">
+<img src="https://media0.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" alt="GIF 1" width="200" height="200"><img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp" alt="GIF 2" width="200" height="200"><img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp" alt="GIF 3" width="200" height="200"><img src="https://media1.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="GIF 4" width="200" height="200">
+
+
+
 
 
 
