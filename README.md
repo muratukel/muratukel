@@ -8,20 +8,11 @@
 
 <img src="https://media0.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" alt="GIF 1" width="200" height="200"><img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp" alt="GIF 2" width="200" height="200"><img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp" alt="GIF 3" width="200" height="200"><img src="https://media1.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="GIF 4" width="200" height="200"><img src="https://media4.giphy.com/media/iYTXFJofI7I987H92k/200w.webp?cid=ecf05e47u0hk789j5r6ivm5h9m6ljgepc8polm6by9uwd9xg&ep=v1_gifs_search&rid=200w.webp&ct=g" alt="GIF 1" width="200" height="200">
 
-
-
-
-
-
-
-
-
 🔧 Technical Proficiencies:
 - Programming Language: Python (pandas, numpy, matplotlib, seaborn) 🐍
 - RDBMS and Database: Microsoft SQL Server and PostgreSQL Server 🗃️
 - Business Intelligence and Data Visualization Tools: Power BI and Tableau 📊
 - Other: Google Sheets and Microsoft Excel 📊📈
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murat-t%C3%BCkel-a81814242/)
@@ -31,7 +22,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)![Tableau](https://img.shields.io/badge/Tableau-%23000000.svg?style=for-the-badge&logo=tableau&logoColor=white)
 
 
-<img src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/200w.webp?cid=ecf05e47zoz9j8gr9rcrqykohuy5tu7vnfht4o6wihwv28y2&ep=v1_gifs_search&rid=200w.webp&ct=g" alt="GIF 2" width="300" height="200"><img src="https://media1.giphy.com/media/vISmwpBJUNYzukTnVx/200w.webp?cid=ecf05e47kmfmekblwxo3coao1mx13fdilika1s910pe6zg5c&ep=v1_gifs_search&rid=200w.webp&ct=g" alt="GIF 1" width="300" height="200">
+<img src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/200w.webp?cid=ecf05e47zoz9j8gr9rcrqykohuy5tu7vnfht4o6wihwv28y2&ep=v1_gifs_search&rid=200w.webp&ct=g" alt="GIF 2" width="200" height="100"><img src="https://media1.giphy.com/media/vISmwpBJUNYzukTnVx/200w.webp?cid=ecf05e47kmfmekblwxo3coao1mx13fdilika1s910pe6zg5c&ep=v1_gifs_search&rid=200w.webp&ct=g" alt="GIF 1" width="200" height="100">
 
 
 
