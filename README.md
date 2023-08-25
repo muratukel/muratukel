@@ -6,6 +6,12 @@
 ![GIF 3](https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp?cid=ecf05e47f0kd6cvq5vwpbe7nmpkr19rydhut6rnts484uu6y&ep=v1_gifs_search&rid=200.webp&ct=g)
 ![GIF 4](https://media1.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e478ibeydcpwgjv08cuj3nz3daqbziowezc32aconds&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
+<img src="https://media0.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" alt="GIF 1" width="200" height="200">
+<img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp" alt="GIF 2" width="200" height="200">
+<img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/200.webp" alt="GIF 3" width="200" height="200">
+<img src="https://media1.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="GIF 4" width="200" height="200">
+
+
 🔧 Technical Proficiencies:
 - Programming Language: Python (pandas, numpy, matplotlib, seaborn) 🐍
 - RDBMS and Database: Microsoft SQL Server and PostgreSQL Server 🗃️
